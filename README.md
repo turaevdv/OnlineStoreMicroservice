@@ -2,6 +2,7 @@
 This is the main repository of the Online Store application.
 
 The application consists of 10 microservices:
+
 3 microservices are needed to ensure the operation of the system:
 1. [Spring Cloud Config Server](https://github.com/turaevdv/OnlineStoreMicroserviceCloudConfig)
 2. [Spring Cloud Eureka Server](https://github.com/turaevdv/OnlineStoreMicroserviceEurekaServer)
