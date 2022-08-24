@@ -1,4 +1,4 @@
-###### **Online Store application**
+## **Online Store application**
 This is the main repository of the Online Store application.
 
 The application consists of 10 microservices:
@@ -6,6 +6,7 @@ The application consists of 10 microservices:
 1. [Spring Cloud Config Server](https://github.com/turaevdv/OnlineStoreMicroserviceCloudConfig)
 2. [Spring Cloud Eureka Server](https://github.com/turaevdv/OnlineStoreMicroserviceEurekaServer)
 3. [Spring Cloud Gateway](https://github.com/turaevdv/OnlineStoreMicroservicesGatewayServer)
+
 In addition, since the application uses a remote configuration, there is [a git repository that stores the configuration](https://github.com/turaevdv/OnlineStoreMicroserviceConfigRepository)
 
 7 microservices directly execute business logic:
